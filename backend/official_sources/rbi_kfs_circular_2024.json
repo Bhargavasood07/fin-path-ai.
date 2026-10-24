@@ -1,0 +1,89 @@
+{
+  "circular_id": "DOR.MCS.REC.21/01.01.001/2024-25",
+  "notification_id": "12827",
+  "title": "Key Facts Statement (KFS) for Loans & Advances",
+  "issuing_authority": "Reserve Bank of India",
+  "issue_date": "2024-04-15",
+  "effective_date": "2024-10-01",
+  "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=12827",
+  "summary": "Mandates all Regulated Entities (REs) to provide a standardised Key Facts Statement (KFS) to prospective borrowers for all retail and MSME term loans before loan execution, ensuring full transparency in loan terms, APR, fees, and grievance redressal.",
+  "clauses": [
+    {
+      "clause_id": "KFS-01",
+      "section": "Applicability & Scope",
+      "title": "Scope of Application",
+      "text": "The provisions shall apply to all commercial banks, cooperative banks, and Non-Banking Financial Companies (NBFCs) including Housing Finance Companies (HFCs) for all retail and MSME term loans disbursed on or after October 1, 2024.",
+      "key_takeaways": [
+        "Covers both personal/retail and MSME loans",
+        "Mandatory for all regulated lenders regardless of disbursement mode",
+        "Applies to digital as well as physical/branch lending"
+      ]
+    },
+    {
+      "clause_id": "KFS-02",
+      "section": "Disclosure Requirement",
+      "title": "Mandatory Standardised KFS",
+      "text": "Regulated Entities (REs) must provide a standardised Key Facts Statement (KFS) to prospective borrowers before execution of the loan contract/agreement. The KFS must be written in simple, understandable language and acknowledged by the borrower.",
+      "key_takeaways": [
+        "Must be provided prior to agreement execution",
+        "Borrower must give explicit acknowledgement",
+        "Standard format Part A, B, and C must be strictly followed"
+      ]
+    },
+    {
+      "clause_id": "KFS-03",
+      "section": "All-Inclusive Cost & APR",
+      "title": "Annual Percentage Rate (APR) Disclosure",
+      "text": "The KFS shall explicitly disclose the Annual Percentage Rate (APR), which represents the total cost of credit to the borrower expressed as an annualised percentage. The APR must include the rate of interest plus all other upfront and recurring charges (processing fees, documentation charges, verification fees, third-party fees).",
+      "key_takeaways": [
+        "APR must be prominently displayed alongside nominal interest rate",
+        "All fees (processing, insurance bundled, documentation) must be factored into APR",
+        "Lenders cannot advertise flat nominal rates while concealing high upfront charges"
+      ]
+    },
+    {
+      "clause_id": "KFS-04",
+      "section": "Prohibition of Hidden Charges",
+      "title": "Unlisted Charges Void and Prohibited",
+      "text": "Any fee, charge, or cost not explicitly specified in the KFS cannot be charged to the borrower at any stage of the loan lifecycle by the RE or its Lending Service Providers (LSPs).",
+      "key_takeaways": [
+        "Zero hidden fees allowed post-signing",
+        "Third-party charges not in KFS cannot be recovered",
+        "Total transparency required across entire tenure"
+      ]
+    },
+    {
+      "clause_id": "KFS-05",
+      "section": "Cooling-Off / Look-Up Period",
+      "title": "Borrower Right of Exit (Cooling-Off)",
+      "text": "A cooling-off/look-up period of at least three (3) days for loans with tenure of seven (7) days or more, and at least one (1) day for loans under seven days, during which the borrower can exit the loan by paying the principal and proportionate APR without any prepayment or foreclosure penalty.",
+      "key_takeaways": [
+        "Minimum 3 days look-up for regular loans",
+        "Zero penalty or foreclosure cost during cooling-off",
+        "Borrower only repays principal + daily interest"
+      ]
+    },
+    {
+      "clause_id": "KFS-06",
+      "section": "Penal Charges vs Penal Interest",
+      "title": "Prohibition of Capitalising Penal Interest",
+      "text": "Penalties for delayed payments shall be levied strictly as 'Penal Charges' and NOT as 'Penal Interest' added to the rate of interest. Penal charges shall not be capitalised into principal and no compounding of penal charges is permissible.",
+      "key_takeaways": [
+        "No compound interest on penalties",
+        "Penal charges must be separate and reasonable",
+        "Lenders cannot add penal rate into base interest rate"
+      ]
+    },
+    {
+      "clause_id": "KFS-07",
+      "section": "Grievance Redressal & Recovery",
+      "title": "Nodal Officer and Recovery Agent Disclosures",
+      "text": "The KFS must state the details of the designated Grievance Redressal Officer (name, phone, email), the turnaround time for complaint resolution (max 30 days), and escalation details to the RBI Ombudsman under the Reserve Bank - Integrated Ombudsman Scheme (RB-IOS). Details of any Recovery Agents engaged must also be disclosed in advance.",
+      "key_takeaways": [
+        "Principal Nodal Officer contact must be on page 1 of KFS",
+        "Direct link to RBI Ombudsman (cms.rbi.org.in)",
+        "Advance notification before any recovery agency contact"
+      ]
+    }
+  ]
+}

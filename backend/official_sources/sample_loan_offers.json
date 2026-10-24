@@ -1,0 +1,53 @@
+[
+  {
+    "id": "offer-compliant-01",
+    "lender_name": "Axis / HDFC Premier Retail Bank",
+    "loan_type": "Personal Term Loan",
+    "principal": 500000,
+    "tenure_months": 36,
+    "nominal_rate_pa": 11.5,
+    "processing_fee": 5000,
+    "insurance_charges": 0,
+    "documentation_charges": 500,
+    "cooling_off_days": 3,
+    "penal_charge_type": "Flat Fee (Rs. 500 / month default, non-compounded)",
+    "recovery_agent_disclosed": true,
+    "nodal_officer_disclosed": true,
+    "unbundled_insurance": true,
+    "description": "Standard retail bank loan following RBI April 2024 KFS circular in full transparency."
+  },
+  {
+    "id": "offer-predatory-02",
+    "lender_name": "FastCash Instant Nano-Credit App",
+    "loan_type": "Digital Short Term Loan",
+    "principal": 60000,
+    "tenure_months": 6,
+    "nominal_rate_pa": 36.0,
+    "processing_fee": 7200,
+    "insurance_charges": 2500,
+    "documentation_charges": 1800,
+    "cooling_off_days": 0,
+    "penal_charge_type": "3% per month compounded penal interest added to base rate",
+    "recovery_agent_disclosed": false,
+    "nodal_officer_disclosed": false,
+    "unbundled_insurance": false,
+    "description": "Predatory digital microloan with 4 hidden fees, compounded penal interest, zero cooling-off period, and undisclosed recovery agents."
+  },
+  {
+    "id": "offer-nbfc-03",
+    "lender_name": "Bajaj / Tata Capital FinServ NBFC",
+    "loan_type": "Consumer Durable & Flexi Loan",
+    "principal": 250000,
+    "tenure_months": 24,
+    "nominal_rate_pa": 14.0,
+    "processing_fee": 3500,
+    "insurance_charges": 1200,
+    "documentation_charges": 750,
+    "cooling_off_days": 3,
+    "penal_charge_type": "2% simple penal charge on overdue installment amount",
+    "recovery_agent_disclosed": true,
+    "nodal_officer_disclosed": true,
+    "unbundled_insurance": true,
+    "description": "Standard NBFC personal loan compliant with KFS guidelines with moderate processing costs."
+  }
+]

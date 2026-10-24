@@ -1,0 +1,40 @@
+{
+  "circular_id": "DOR.CRE.REC.66/21.07.001/2022-23",
+  "title": "Guidelines on Digital Lending",
+  "issuing_authority": "Reserve Bank of India",
+  "issue_date": "2022-09-02",
+  "summary": "Regulatory framework for digital lending operations covering Lending Service Providers (LSPs), Digital Lending Apps (DLAs), direct disbursement to borrower bank accounts, data privacy, and mandatory KFS.",
+  "clauses": [
+    {
+      "clause_id": "DL-01",
+      "section": "Disbursement & Repayment Flow",
+      "title": "Direct Account-to-Account Disbursement",
+      "text": "All loan disbursements and repayments must be executed directly between the bank account of the Regulated Entity (RE) and the borrower, without any pass-through account or pool account of any third-party Lending Service Provider (LSP).",
+      "key_takeaways": [
+        "No fintech intermediary holding pools allowed",
+        "Direct bank-to-bank ledger flow"
+      ]
+    },
+    {
+      "clause_id": "DL-02",
+      "section": "Data Privacy & Mobile Permissions",
+      "title": "Restricted Mobile Permissions",
+      "text": "Digital Lending Apps (DLAs) shall not access mobile phone resources such as contact lists, call logs, SMS logs, or biometric data. Only one-time access for camera/microphone for KYC purpose is permissible with explicit prior consent.",
+      "key_takeaways": [
+        "No contact list scraping for harassment",
+        "No continuous location tracking or file system access",
+        "Strict consent revocation option required"
+      ]
+    },
+    {
+      "clause_id": "DL-03",
+      "section": "Cooling-Off Window",
+      "title": "Exit Option in Digital Loans",
+      "text": "Borrowers must be provided an explicit cooling-off window within the app to exit digital credit agreements without incurring any penal charges, ensuring protection against hurried impulse borrowing.",
+      "key_takeaways": [
+        "Borrower remorse protection",
+        "Must be prominently visible in app UI"
+      ]
+    }
+  ]
+}
